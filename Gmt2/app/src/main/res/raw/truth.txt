@@ -1,0 +1,151 @@
+	1.	What is your least favorite thing about family gatherings?
+	2.	What is your favorite thing about family gatherings?
+	3.	What is a secret that you kept from your parents when you were growing up?
+	4.	What is one thing that makes you relax?
+	5.	What is a bad habit that you have?
+	6.	Have you ever flirted with a police officer to get out of a speeding ticket?
+	7.	What is something you look forward to when you retire?
+	8.	Do you have a bucket list and if so, what is one thing on the list?
+	9.	What is one thing you are always losing?
+	10.	Where is your favorite place to shop?
+	11.	Do you have a weird collection?
+	12.	Tell about the last dream you had and don’t leave anything out.
+	13.	Have you ever shared chewing gum with anyone?
+	14.	Have you ever lied about being sick so you could stay home from work or school?
+	15.	If you could do one thing you did when you were a child, what would it be?
+	16.	Have you ever danced on a table when you were drunk?
+	17.	Have you ever told someone you wouldn’t be home just so they wouldn’t come over?
+	18.	What is the one thing you dislike about yourself?
+	19.	What is the one thing you do like about yourself?
+	20.	What is the one thing you would stand in line for?
+	21.	Have you ever lied to get a job?
+	22.	If anyone in your family could win an award for the most annoying, who would it be?
+	23.	What is the most embarrassing thing that has happened to you in front of a crowd?
+	24.	What is your least favorite household chore?
+	25.	If you could hire someone to do one thing for you, what would it be?
+	26.	What was the most embarrassing thing that you ever did while on a date?
+	27.	What was the worst gift you ever received?
+	28.	What is the one thing you are the most afraid of?
+	29.	Have you ever sent an inappropriate text to your mom or dad by accident?
+	30.	Have you ever bought something to wear to an event and then returned it to the store when the event was over?
+	31.	Have you ever fallen asleep in church?
+	32.	Did you ever break up with someone just before a holiday so that you didn’t have to buy them a gift?
+	33.	Have you ever kept a library book?
+	34.	Have you ever cheated on a test?
+	35.	If you could create your own job title, what would it be?
+	36.	What is your excuse to get out of exercising?
+	37.	What was the one thing you could never learn how to do no matter how hard you tried?
+	38.	What was your favorite childhood television show?
+	39.	Did you ever sneak into an adult movie when you were underage?
+	40.	If you had a remote control that would operate anything, what would you control?
+	41.	Have you ever complained about something at a restaurant just to get out of paying?
+	42.	What is one thing you did as a child that you still enjoy doing?
+	43.	Do you prefer the big city or country life?
+	44.	What is your guilty pleasure?
+	45.	What are your favorite pizza toppings?
+	46.	Where is your favorite vacation spot?
+	47.	Have you ever used a work computer for personal use?
+	48.	What is your favorite thing to do with your leisure time?
+	49.	What was the worse vacation you ever had?
+	50.	If you were to bury a time capsule, what is one thing you would put in it?
+	51.	If you were granted three wishes, what would you wish for?
+	52.	What is your favorite holiday?
+	53.	What is your biggest pet peeve?
+	54.	If you could choose a different career, what would it be and why?
+	55.	If you could live anywhere in the world, where would it be?
+	56.	What is your favorite vending machine snack?
+	57.	Have you ever forgotten a special person’s birthday?
+	58.	Have you ever taken a drink straight out of the carton?
+	59.	On a scale from 1-10, where do your patience fall?
+	60.	If animals could talk, which one would you have a conversation with?
+	61.	What is your favorite restaurant?
+	62.	What makes you cry?
+	63.	What makes you laugh?
+	64.	What is something you find to be disgusting?
+	65.	Have you ever been stuck in an elevator and if so who were you with?
+	66.	Have you ever been on an airplane and if so where were you going?
+	67.	Who was your favorite teacher in school?
+	68.	What was your favorite subject in school?
+	69.	What is something that you are not looking forward to?
+	70.	Knowing now what you didn’t know then, what would you have done differently?
+	71.	Have you ever told a secret after you were told not to?
+	72.	Are you always on time, or are you always late?
+	73.	Are you a morning person or a night person?
+	74.	What is one job you would never want to do?
+	75.	What is your favorite ice cream flavor?
+	76.	When you think that no one is listening, do you sing in the shower?
+	77.	The last time you argued with someone, did you apologize first or was it the other person?
+	78.	What is your favorite food?
+	79.	What is the best gift you ever received?
+	80.	What was your favorite childhood toy?
+	81.	If you were given a million dollars what would you do with it?
+	82.	Have you ever been arrested?
+	83.	What is your favorite sport?
+	84.	Have you ever been golfing?
+	85.	Have you ever played tennis?
+	86.	What is your favorite ride at the amusement park?
+	87.	Do you prefer the beach or the mountains?
+	88.	Have you ever been on a train?
+	89.	If you found a large amount of money, would you keep it or would you try to find the owner?
+	90.	What makes you furious?
+	91.	What makes you happy?
+	92.	What is your favorite sandwich?
+	93.	Is there anything you regret buying, and if so, what is it?
+	94.	What is the best thing you ever bought?
+	95.	If you were invisible what is something you would do?
+	96.	What makes you feel uncomfortable?
+	97.	Do you prefer cats, dogs, or neither?
+	98.	If there was one thing you could change about yourself, what would it be?
+	99.	If you were a giant, what would you like to do?
+	100.	What is your favorite music genre?
+	101.	Have you ever blamed your sibling for something you did just so that you wouldn’t get in trouble?
+	102.	How old were you when you got your first cell phone?
+	103.	When is the last time you took a shower?
+	104.	When is the last time you brushed your teeth?
+	105.	What do you like to do when you are alone?
+	106.	What do you like to do when you are with your friends?
+	107.	What was the name of your first crush?
+	108.	How old were you when you had your first crush?
+	109.	What is the best time of day for you?
+	110.	What is your least favorite time of the day?
+	111.	If you didn’t have to work, what would you do with all your time?
+	112.	What is your favorite possession?
+	113.	What is your favorite go-to website?
+	114.	What was the best day you ever had?
+	115.	What was the worst day you ever had?
+	116.	What is your biggest fear in life?
+	117.	Did you have a nickname as a child and if so, what was it?
+	118.	Do you prefer mushy movies or funny ones?
+	119.	If you only had two minutes to get out of your house, what would you grab?
+	120.	What is your favorite vegetable?
+	121.	What is your favorite fruit?
+	122.	Do you have a special talent and if so, what is it?
+	123.	Have you ever been married?
+	124.	What do you like to put on your toast?
+	125.	Do you like hot peppers?
+	126.	If you could live anywhere in the world, where would it be?
+	127.	Do you prefer Facebook or twitter?
+	128.	What season is your favorite?
+	129.	Who is your most annoying neighbor?
+	130.	If you could be someone else for a day who would you be?
+	131.	What was the name of the street you grew up on?
+	132.	Which do you like better, cars or trucks?
+	133.	What is your favorite outdoor pastime?
+	134.	Which do you like better, Coke or Pepsi?
+	135.	What is your favorite month and why?
+	136.	Do you like to read and if so, what is your favorite book?
+	137.	Have you ever met a celebrity, if so, who?
+	138.	Have you ever cheated to win a game?
+	139.	Have you ever sent a love email to your boss by accident that was meant for someone else?
+	140.	What food do you absolutely despise?
+	141.	Who is the person you are the most jealous of and why?
+	142.	How many different languages can you speak and what are they?
+	143.	Do you have any tattoos and if so, where?
+	144.	Have you ever been outside of the country?
+	145.	What is one thing your grandparent taught you how to do?
+	146.	Have you ever been to the opera?
+	147.	Do you prefer talking or texting?
+	148.	Have you ever had an argument with someone through text?
+	149.	What was the last thing you ate?
+	150.	Have you ever been to the zoo?
+	151.	Have you ever stalked someone on Facebook?
